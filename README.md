@@ -1,3 +1,3 @@
-This repo is for documinting and works as playground while I am learning pyhton
-I am using this playlist on youtube "https://youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7&si=TWLekTZP8sden3gj"
-The folders stands to which video on the playlist
+This repo is for documinting and works as playground while I am learning pyhton.
+I am using this playlist on youtube "https://youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7&si=TWLekTZP8sden3gj".
+The folders stands to which video on the playlist.
